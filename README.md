@@ -1,13 +1,13 @@
-<h1 align="center">Hello 👋, I'm Aditya</h1>
+<h1 align="center">Yo👋, I'm Aditya</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysilento&label=Profile%20views&color=0e75b6&style=flat" alt="geekysilento" /> </p>
 
-- 🔭 I’m currently working on [NIT Kurukshetra Student Marketplace](https://github.com/DevsThatMatter/nksm) and [NIT Kurukshetra's Official Website](https://github.com/asc-nitkkr/node-modules)
+- 🔭 I’m currently working on [CopperTube](https://github.com/coppertube) and [NIT Kurukshetra's Official Website](https://github.com/asc-nitkkr/node-modules)
 
-- 🌱 I’m currently learning **GraphQL, tRPC, Nextjs 14**
+- 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **adityakarna.ak@gmail.com**
+- 📫 How to reach me **work.adityakarna.ak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
