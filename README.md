@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysilento&label=Profile%20views&color=0e75b6&style=flat" alt="geekysilento" /> </p>
 
-- 🔭 I’m currently working on [CopperTube](https://github.com/coppertube) and [NIT Kurukshetra's Official Website](https://github.com/asc-nitkkr/node-modules)
+- 🔭 I’m currently working in DataDrew Analytics and [NIT Kurukshetra's Official Website](https://github.com/asc-nitkkr/node-modules)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Redis**
 
 - 📫 How to reach me **work.adityakarna.ak@gmail.com**
 
